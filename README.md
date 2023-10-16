@@ -26,4 +26,5 @@ desarrollar herramientas de inteligencia artificial
 
 procesos
 desarrollo de inteligencia artificial para el análisis de artículos
- que utilicé de referencia 
+ que utilicé de referencia signos y sintomas como palabras clave para el desarrollo de aplicaciones de diagnóstico y tratamiento
+ que se vuelva mas especifico el diagnóstico conforme se van añadiendo datos de análisis clinicos
